@@ -1,10 +1,10 @@
-### 📄 `README.md` – *Cool-Mint-Breeze-Icons*
+### 📄 `README.md` – *Mint-Breeze-Calm-Green-Icons*
 
-**Name**: Cool-Mint-Breeze-Icons
+**Name**: Mint-Breeze-Calm-Green-Icons
 **License**: GNU General Public License v3.0 (GPL-3.0)
 **Compatible with**: Linux Mint (Cinnamon), GTK desktops
 **Author**: DrMcC0y
-**Version**: 1.0.0
+**Version**: 1.0.1
 **Status**: Actively maintained
 **Based on**: Breeze, Numix-Circle, Papirus, Hicolor (GPL-compatible)
 
@@ -12,7 +12,7 @@
 
 ### 🖼 Description
 
-**Cool-Mint-Breeze-Icons** is a modern, unified icon set designed to complement the [Cool-Mint-Breeze GTK theme](https://www.pling.com/p/2302153/).
+**Mint-Breeze-Calm-Green-Icons** is a modern, unified icon set designed to complement the [Mint-Breeze-Calm-Green GTK theme](https://www.pling.com/p/2324616/).
 It is a unique and cohesive theme tailored specifically for Linux Mint users who want a fresh visual experience while preserving a familiar aesthetic base.
 
 The set includes redesigned system icons, updated application icons, and custom folder styles to enhance clarity and harmony across the system.
@@ -25,7 +25,7 @@ It is partially based on open source icon themes licensed under the GPL, such as
 * **Hicolor** – one or two icons included from this fallback theme
 
 In addition, inspired by the **Breeze** theme, I have created a **brand new set of mimetype icons**. Many of these icons, including several file types and special cases, were **designed entirely by me**.
-While it draws inspiration from Mint-Relaxed, I have **restructured the folder design**, replacing the original folders with a new set of custom-designed folder icons.
+While it draws inspiration from Mint-Relaxed, I’ve updated the folder design by replacing the original folders with a new set of custom-colored icons.
 
 ## Features
 
