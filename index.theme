@@ -5,7 +5,7 @@ Comment=Breeze icons adapted for Mint Cinnamon
 
 DisplayDepth=32
 
-Inherits=breeze,Adwaita-dark,Numix-Circle,hicolor,Mint-Y-Dark-Aqua
+Inherits=breeze,Adwaita-dark,Numix-Circle,hicolor,Mint-Y-Dark-Aqua,Adwaita,Mint-Y-Aqua
 
 Example=folder
 
